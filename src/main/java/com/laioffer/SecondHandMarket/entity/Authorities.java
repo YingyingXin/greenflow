@@ -1,9 +1,8 @@
 package com.laioffer.SecondHandMarket.entity;
 
-import org.hibernate.annotations.Table;
-
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.Table;
 import java.io.Serializable;
 
 @Entity
